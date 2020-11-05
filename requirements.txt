@@ -2,7 +2,6 @@ altgraph==0.17
 appdirs==1.4.4
 asgiref==3.2.7
 attrs==19.3.0
-basemap==1.2.1
 branca==0.4.0
 certifi==2020.4.5.1
 chardet==3.0.4
